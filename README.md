@@ -36,9 +36,9 @@ Desenvolver uma cli apenas com comandos de transformação de string
 
 Faça uma web api que gerencie uma lista de todos. Implementando as rotas GET, POST, PUT and DELETE
 
-#### mini-pong
+#### log-in
 
-... transcendence
+Faça um sistema de login
 
 ## Dicas
 
