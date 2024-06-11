@@ -18,4 +18,4 @@ jobs:
       run: |
         cd mini-cli
         make
-        bash tests.sh
+        bash test.sh
