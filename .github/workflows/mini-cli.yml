@@ -1,4 +1,4 @@
-name: engine-ex
+name: mini-cli
 
 on:
   push:
@@ -16,5 +16,6 @@ jobs:
 
     - name: Run tests
       run: |
+        cd mini-cli
         make
         bash tests.sh
