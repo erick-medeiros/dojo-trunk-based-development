@@ -28,9 +28,9 @@ O Ciclo de desenvolvimento segue a seguinte lógica:
 
 ### MiniProjetos
 
-#### builtin-shell
+#### mini-cli
 
-Desenvolver uma shell apenas com comandos builtins, a nossa `builtin-shell`
+Desenvolver uma cli apenas com comandos de transformação de string
 
 #### engine-ex
 
