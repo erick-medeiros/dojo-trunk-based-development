@@ -34,7 +34,7 @@ Desenvolver uma shell apenas com comandos builtins, a nossa `builtin-shell`
 
 #### engine-ex
 
-... webserv
+Faça uma web api que gerencie uma lista de todos. Implementando as rotas GET, POST, PUT and DELETE
 
 #### mini-pong
 
