@@ -3,7 +3,7 @@ name: engine-ex
 on:
   push:
     branches:
-      - main  # ou o nome da sua branch principal
+      - main
 
 jobs:
   test:
